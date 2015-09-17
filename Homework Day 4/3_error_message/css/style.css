@@ -1,0 +1,13 @@
+div.message{
+	font-style: italic;
+}
+
+div.error{
+	font-size: 20px;
+}
+
+div.success{
+	background-color: red;
+	float: left;
+	width: 49%;
+}
