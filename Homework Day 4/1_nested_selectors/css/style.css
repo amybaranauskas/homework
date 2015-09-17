@@ -1,0 +1,8 @@
+blockquote {
+	font-style: italic;
+
+}
+
+blockquote em{
+	font-weight: bold;
+}
